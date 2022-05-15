@@ -1,5 +1,4 @@
-from requests import request
+import requests
 
-
-import request
-
+r = requests.get('https://ghibliapi.herokuapp.com/films')
+r.json()
