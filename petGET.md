@@ -1,4 +1,4 @@
-Primero probaremos la API principal haremos tres peticiones con curl usando parámetros:
+Primero probaremos la API principal, haremos tres peticiones con curl usando parámetros:
 
 * Comprobamos que introduciendo el "id" como parámetro de como salida la información de la película:
 
